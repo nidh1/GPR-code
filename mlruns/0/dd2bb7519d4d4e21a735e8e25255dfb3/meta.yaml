@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/GPR/mlruns/0/dd2bb7519d4d4e21a735e8e25255dfb3/artifacts
+end_time: 1626645926916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: dd2bb7519d4d4e21a735e8e25255dfb3
+run_uuid: dd2bb7519d4d4e21a735e8e25255dfb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1626645842296
+status: 3
+tags: []
+user_id: Hp
